@@ -1,2 +1,2 @@
 # Front-page-MA
-Jacket shot Front page (desktop + mobile)
+Jacket shop Front page (desktop + mobile)
