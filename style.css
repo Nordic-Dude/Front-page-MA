@@ -1,3 +1,8 @@
+#logo {
+    width: 274px ;
+    height: 147px ;
+}
+
 h1, h2  {
     font-family: 'Raleway', sans-serif; 
     font-weight: 300;
@@ -19,15 +24,16 @@ margin : 0
 }
 
 #hero {
-    display: block;
+    display: inline;
     margin-left: 0;
     margin-right: 0;
     height : auto;
-    width : 55%
+    width : 65%
 
 }
 
 #homeR {
+    display: inline;
     float : right ;
     margin: -5;
     height : 1310px;
@@ -35,6 +41,7 @@ margin : 0
 }
 
 #homeL {
+    display: inline;
     float : left;
     margin: -5;
     height : 1310px;
@@ -44,8 +51,8 @@ margin : 0
 #women, #men {
 font-family : 'Raleway', sans-serif;
 font-size : 36px;
-float : center;
 width : 300px ;
 height : 100px ;
-margin-right : 20%
+margin-right : 10% ;
+margin-left : auto
 }
