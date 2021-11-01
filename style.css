@@ -30,7 +30,14 @@ h1, h2  {
     margin-right: 0;
     height : auto;
     width : 65%
+}
 
+#homeHP {
+    display: inline;
+    margin-left: 0;
+    margin-right: 0;
+    height : auto;
+    width : 65%
 }
 
 #homeR {
@@ -48,6 +55,8 @@ h1, h2  {
     height : 1310px;
     width : 323px
 }
+
+
 
 #women, #men {
     font-family : 'Raleway', sans-serif;
@@ -102,5 +111,4 @@ footer  {
 p   {
     margin-left: 20%;
     padding-top: 15px;
-
 }
