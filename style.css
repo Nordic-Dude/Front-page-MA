@@ -1,19 +1,51 @@
 h1, h2  {
     font-family: 'Raleway', sans-serif; 
+    font-weight: 300;
     font-size: 36px;
     text-align: center
 }
 
-#homeD, #emailD, #shoppingD {
-display: flex;
-flex-direction: row;
-justify-content: end;
-
+#homeD, #shoppingD, #emailD {
+float: right;
+padding-right: 5%;
+padding-top: 50px
 }
 
-hr    {
-size : 5px ; 
+hr    { 
+height: 3px;
 color : #703F12;
-width : absolute
+background-color: #703F12;
+margin : 0
 }
 
+#hero {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    height : auto;
+    width : 55%
+
+}
+
+#homeR {
+    float : right ;
+    margin: -5;
+    height : 1310px;
+    width : 323px
+}
+
+#homeL {
+    float : left;
+    margin: -5;
+    height : 1310px;
+    width : 323px
+}
+
+#women, #men {
+font-family : 'Raleway', sans-serif;
+font-size : 36px;
+float : center;
+width : 300px ;
+height : 100px ;
+margin-right : 20%
+}
