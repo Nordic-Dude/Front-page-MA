@@ -1,2 +1,2 @@
 # Front-page-MA
-Jacket shop Front page (desktop + mobile)
+Rainydays Jacket shop Front page (desktop + mobile)
